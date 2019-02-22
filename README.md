@@ -7,4 +7,4 @@ keras implementation of the Cartpole balancing problem using OpenAI GYM
 
 NEAT reference - http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf
                  
-                 https://github.com/harvitronix/neural-network-genetic-algorithm implementation 
+                
